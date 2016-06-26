@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    première application
+    <string name="app_name">"Première Application"</string>
+    <string name="Bienvenino">Bienvenue</string>
+    <string name="Entrar">Entrer</string>
+    <string name="action_settings">Settings</string>
+</resources>
